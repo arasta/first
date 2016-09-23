@@ -1,3 +1,2 @@
-tere_maailm.rb
-.class
-.tmp
+*.class
+*.tmp
