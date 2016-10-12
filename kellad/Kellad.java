@@ -56,7 +56,7 @@ class Kell implements Ajanaitaja {
 } // Kell
 
 /**
- * Klass Käekell pärib omadusi teiselt klassilt. Annab Käekellale Kella omadused. 
+ * Klass Käekell pärib omadusi teiselt klassilt. Annab Käekellale Kella omadused (aja näitamine). 
  */
 class KaeKell extends Kell {
 
