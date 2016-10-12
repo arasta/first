@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("Tere maailm!")
+print("Tere, maailm!")
