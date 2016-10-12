@@ -76,7 +76,7 @@ class KaeKell extends Kell {
 } // KaeKell
 
 /**
- * Uue klassi loomine. Luuakse Telefonide klass. 
+ * Uue klassi loomine. Luuakse klass Telefon. 
  */
 class Telefon {
 
