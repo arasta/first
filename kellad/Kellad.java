@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Selles failis tuleb igal pool asendada kaldkriipsudest koosnevad read
  * sobiliku javadoc kommentaariga. Seej2rel genereerida javadoc ja
  * kontrollida, et poleks t2itmata j22nud lahtreid.
@@ -27,7 +27,7 @@ public class Kellad { // peameetodit sisaldav silumisklass
 } // Kellad
 
 /**
-* Liides. Kirjeldab oskust aega näidata.
+* Liides. Kirjeldab oskust aega näidata. 
 */
 interface Ajanaitaja { // liides, mis kirjeldab oskust aega n2idata
 
@@ -56,7 +56,7 @@ class Kell implements Ajanaitaja {
 } // Kell
 
 /**
- * Klass Käekell pärib omadusi. Annab Käekellale Kella omadused. 
+ * Klass Käekell pärib omadusi teiselt klassilt. Annab Käekellale Kella omadused. 
  */
 class KaeKell extends Kell {
 
